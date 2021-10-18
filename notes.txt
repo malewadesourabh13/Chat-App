@@ -1,0 +1,3 @@
+WebScoket
+WebScoket is a protocol that allows us to have bi-directional communication.
+we can think of it as (open door between our client and server).
